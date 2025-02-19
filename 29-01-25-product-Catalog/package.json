@@ -1,0 +1,16 @@
+{
+  "name": "29-01-25-product-catalog",
+  "version": "1.0.0",
+  "description": "product catalog",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescrit",
+    "catalog",
+    "product"
+  ],
+  "author": "Müslime Kayar",
+  "license": "MIT"
+}
